@@ -4,12 +4,13 @@
 
 ### Screenshots of the Project
 
-![1](https://github.com/ArdaOdabasi/FormValidationApp/assets/61662021/356cbd61-2094-4cd9-9659-04579bc1c0d1)
+![1](https://github.com/ArdaOdabasi/FormValidationApp/assets/61662021/a3de51a8-404a-4571-b2a5-6c424e668744)
 
-![2](https://github.com/ArdaOdabasi/FormValidationApp/assets/61662021/f164d533-ed1d-4d35-9dcb-14822d1b04dc)
+![2](https://github.com/ArdaOdabasi/FormValidationApp/assets/61662021/e7593a54-02ec-4e62-982e-341c519b5130)
 
-![3](https://github.com/ArdaOdabasi/FormValidationApp/assets/61662021/40f3cead-46f0-4d34-8ad2-b7927708df2a)
+![3](https://github.com/ArdaOdabasi/FormValidationApp/assets/61662021/256fc9ee-196f-4a36-ba54-d990ea9fc7fc)
 
-![4](https://github.com/ArdaOdabasi/FormValidationApp/assets/61662021/24f83a13-6107-403e-aab9-49dd793b8061)
+![4](https://github.com/ArdaOdabasi/FormValidationApp/assets/61662021/d6b62b43-17af-4b23-ab8b-c0a26810c1fb)
+
 
 
